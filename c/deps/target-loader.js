@@ -1,6 +1,7 @@
 //
 // Pair of [idx, filename];
 const map = {
+    '01': 'adder'
 }
 
 //
